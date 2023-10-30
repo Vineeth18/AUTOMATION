@@ -10,3 +10,5 @@ wapp.info('monk')
 wapp.showHistory()
 wapp.shutdown(time=100)
 wapp.join_discord()
+
+print("Done with WhatsApp")

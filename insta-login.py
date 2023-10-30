@@ -3,7 +3,7 @@ import time
 from time import sleep
 import os
 
-#print(os.getcwd())
+print(os.getcwd())
 #print(webdriver) 
 
 
